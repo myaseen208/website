@@ -3,10 +3,10 @@ title: "About me"
 ---
 
 # Profile
-<h4><a href="https://raw.githubusercontent.com/myaseen208/cv/master/MYaseen208CV.pdf" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;CV</a> <a href="https://github.com/myaseen208/cv/raw/master/MYaseen208CV.pdf">Curriculum Vitae</a> &nbsp; </h4> 
+<h4><a href="https://raw.githubusercontent.com/myaseen208/cv/master/MYaseen208CV.pdf" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;CV</a> <a href="https://raw.githubusercontent.com/myaseen208/cv/master/MYaseen208CV.pdf">Curriculum Vitae</a> &nbsp; </h4> 
 
 <ul class="fa-ul">
-<li><a href="myaseen208@gmail.com"><i class="fa-li fa fa-lightbulb-o" style="padding-top:3px;"></i>Email</a></li>
+<li><a href="mailto:myaseen208@gmail.com"><i class="fa-li fa fa-lightbulb-o" style="padding-top:3px;"></i>Email</a></li>
   <li><a href="https://github.com/myaseen208"><i class="fa-li fa fa-github-alt" style="padding-top:3px;"></i>myaseen208 on GitHub</a></li>
   <li><a href="https://scholar.google.com.pk/citations?user=mHkR-7cAAAAJ&hl=en"><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i>Google Scholar</a></li>
   <li><a href="https://twitter.com/myaseen208"><i class="fa-li fa fa-twitter" style="padding-top:3px;"></i>Twitter</a></li>

@@ -70,12 +70,39 @@
     </item>
     
     <item>
+      <title>PakPMICS2014Wm: Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2017_pakpmics2014wm/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2017_pakpmics2014wm/</guid>
+      <description>Provides data set and function for exploration of Multiple Indicator Cluster Survey 2014 Women (age 15-49 years) questionnaire data for Punjab, Pakistan.</description>
+    </item>
+    
+    <item>
       <title>Comparison of Fine and Coarse Rice Varieties for Nickel Accumulation and Growth Response at Different Levels of Nickel</title>
       <link>https://myaseen208.com/publications/2021_fatma/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/publications/2021_fatma/</guid>
       <description>The differential growth response and nickel (Ni) accumulation by two rice varieties grown in Ni-contaminated soil are investigated. Soil is contaminated with Ni at different levels viz. control (0), 7, 15, 22, 30, and 38 mg kg???1 soil. Two rice varieties viz. Basmati-2000 (fine variety) and KSK-133 (coarse variety) are grown in pots containing Ni-contaminated soil. The plants are harvested at four growth stages with an interval of 15 days. Harvested plants are washed with distilled water to remove aerial deposition.</description>
+    </item>
+    
+    <item>
+      <title>Effect of repeated pollination on tomato hybrid seed yield under field conditions</title>
+      <link>https://myaseen208.com/publications/2021_chishti/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2021_chishti/</guid>
+      <description>Hybrid seed yield in tomato is strongly influenced by temperature variations. In this regard a study was conducted to estimate the effect of repeated pollination on fruit setting percentage and number of seeds / fruit under variable natural temperature during the year 2017-18 at Vegetable Research Institute, Ayub Agricultural Research Institute (AARI), Faisalabad, Pakistan. The female parent of commercial indeterminate tomato hybrid (Saandal F1) was emasculated. Pollination was done once (T1), twice (T2) and thrice (T3) keeping the interval of 24 hours between each pollination on daily basis and continued for 22 days under field conditions.</description>
+    </item>
+    
+    <item>
+      <title>DiallelAnalysisR: Diallel Analysis with R</title>
+      <link>https://myaseen208.com/publications/2016_diallelanalysisr/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_diallelanalysisr/</guid>
+      <description>Performs Diallel Analysis with R using Griffing&amp;rsquo;s and Hayman&amp;rsquo;s approaches. Four different Methods (1: Method-I (Parents + F1&amp;rsquo;s + reciprocals); 2: Method-II (Parents and one set of F1&amp;rsquo;s); 3: Method-III (One set of F1&amp;rsquo;s and reciprocals); 4: Method-IV (One set of F1&amp;rsquo;s only)) and two Models (1: Fixed Effects Model; 2: Random Effects Model) can be applied using Griffing&amp;rsquo;s approach.</description>
     </item>
     
     <item>
@@ -115,6 +142,24 @@
     </item>
     
     <item>
+      <title>High resolution Bayesain Spatio-Temporal precipitation modelling in Pakistan for the appraisal of trends</title>
+      <link>https://myaseen208.com/publications/2020_maqsood/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2020_maqsood/</guid>
+      <description>Appraisal of spatio-temporal variability of precipitation is important for studying climate change and managing water resources. In this article, data on monsoon precipitation of Pakistan are analyzed for spatio-temporal interpolation using two hierarchical Bayesian spatio-temporal methods which are DLM and AR models. The precipitation records along with three meteorological covariates (temperature, wind speed and humidity) are collected from 53 stations for the years 2000-2008. Initially, we simulated four data sets using AR model with four levels of autoregressive parameter = (0.</description>
+    </item>
+    
+    <item>
+      <title>eda4treeR: Experimental Design and Analysis for Tree Improvement.</title>
+      <link>https://myaseen208.com/publications/2020_eda4treer/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2020_eda4treer/</guid>
+      <description>Provides data sets and R Codes for Williams, E.R., Matheson, A.C. and Harwood, C.E. (2002). Experimental Design and Analysis for Tree Improvement, CSIRO Publishing.</description>
+    </item>
+    
+    <item>
       <title>Design &amp; Analysis of Field Experiments using R</title>
       <link>https://myaseen208.com/blogs/2020-03-06-uaf/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
@@ -133,12 +178,30 @@
     </item>
     
     <item>
+      <title> Observed social support and willingness for the treatment of patients with schizophrenia</title>
+      <link>https://myaseen208.com/publications/2020_jameel/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2020_jameel/</guid>
+      <description>Background: Schizophrenia is a mental disorder that causes the social breakdown of relationships with others. Patients with schizophrenia interpret reality and verbal communication in an abnormal way. They experience great difficulty in building and maintaining of social relationships within society. They also experience barriers in communication and motivation that hinder their readiness for treatment. The willingness of patients with schizophrenia to be treated improves mental illness, social support and other health-related issues.</description>
+    </item>
+    
+    <item>
       <title>Quantifying the Effect of Water Deficit on Cotton Genotypes Using Agro-physiological and Biochemical Parameters</title>
       <link>https://myaseen208.com/publications/2020_chattha/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/publications/2020_chattha/</guid>
       <description>To investigate the water-deficit tolerance, 45 cotton genotypes were grown under normal irrigation and water-deficit conditions for 2 years. Genotype x treatment x year interaction was determined for seed cotton yield, number of bolls, boll weight, chlorophyll fluorescence, proline contents, and total soluble proteins. Apart from proline levels, all traits showed a reduction under water-deficit conditions. The mean percentage reduction in seed cotton yield due to water deficit conditions was 52.</description>
+    </item>
+    
+    <item>
+      <title>SupMZ: Detecting Structural Change with Heteroskedasticity</title>
+      <link>https://myaseen208.com/publications/2020_supmz/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2020_supmz/</guid>
+      <description>Calculates the sup MZ value to detect the unknown structural break points under Heteroskedasticity as given in Ahmed et al. (2017)</description>
     </item>
     
     <item>
@@ -166,6 +229,69 @@
       
       <guid>https://myaseen208.com/seminars/2019-07-29-nibaf/</guid>
       <description>Workshop Econometrics using STATA held during July 29, 2019 to August 2, 2019 at National Institute of Banking &amp;amp; Finance (NIBAF), Karachi, Pakistan.</description>
+    </item>
+    
+    <item>
+      <title>PakPMICS2018mm: Multiple Indicator Cluster Survey (MICS) 2017-18 Maternal Mortality Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2019_pakpmics2018mm/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2019_pakpmics2018mm/</guid>
+      <description>Provides data set and function for exploration of Multiple Indicator Cluster Survey (MICS) 2017-18 Maternal Mortality questionnaire data for Punjab, Pakistan. The results of the present survey are critically important for the purposes of Sustainable Development Goals (SDGs) monitoring, as the survey produces information on 32 global Sustainable Development Goals (SDGs) indicators. The data was collected from 53,840 households selected at the second stage with systematic random sampling out of a sample of 2,692 clusters selected using probability proportional to size sampling.</description>
+    </item>
+    
+    <item>
+      <title>PakPMICS2018mn: Multiple Indicator Cluster Survey (MICS) 2017-18 Men Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2019_pakpmics2018mn/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2019_pakpmics2018mn/</guid>
+      <description>The PakPMICS2018mn provides data set and function for exploration of Multiple Indicator Cluster Survey (MICS) 2017-18 Men questionnaire data for Punjab, Pakistan. The results of the present survey are critically important for the purposes of Sustainable Development Goals (SDGs) monitoring, as the survey produces information on 32 global Sustainable Development Goals (SDGs) indicators. The data was collected from 53,840 households selected at the second stage with systematic random sampling out of a sample of 2,692 clusters selected using Probability Proportional to size sampling.</description>
+    </item>
+    
+    <item>
+      <title>PakPMICS2018fs: Multiple Indicator Cluster Survey (MICS) 2017-18 Children Age 5-17 Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2019_pakpmics2018fs/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2019_pakpmics2018fs/</guid>
+      <description>Provides data set and function for exploration of Multiple Indicator Cluster Survey (MICS) 2017-18 Children Age 5-17 questionnaire data for Punjab, Pakistan. The results of the present survey are critically important for the purposes of Sustainable Development Goals (SDGs) monitoring, as the survey produces information on 32 global Sustainable Development Goals (SDGs) indicators. The data was collected from 53,840 households selected at the second stage with systematic random sampling out of a sample of 2,692 clusters selected using probability proportional to size sampling.</description>
+    </item>
+    
+    <item>
+      <title>PakPMICS2018hh: Multiple Indicator Cluster Survey (MICS) 2017-18 Household Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2019_pakpmics2018hh/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2019_pakpmics2018hh/</guid>
+      <description>Provides data set and function for exploration of Multiple Indicator Cluster Survey (MICS) 2017-18 Household questionnaire data for Punjab, Pakistan. The results of the present survey are critically important for the purposes of Sustainable Development Goals (SDGs) monitoring, as the survey produces information on 32 global Sustainable Development Goals (SDGs) indicators. The data was collected from 53,840 households selected at the second stage with systematic random sampling out of a sample of 2,692 clusters selected using probability proportional to size sampling.</description>
+    </item>
+    
+    <item>
+      <title>PakPMICS2018bh: Multiple Indicator Cluster Survey (MICS) 2017-18 Birth History of Children Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2019_pakpmics2018bh/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2019_pakpmics2018bh/</guid>
+      <description>Provides data set and function for exploration of Multiple Indicator Cluster Survey (MICS) 2017-18 Household questionnaire data for Punjab, Pakistan. The results of the present survey are critically important for the purposes of SDG monitoring, as the survey produces information on 32 global SDG indicators. The data was collected from 53,840 households selected at the second stage with systematic random sampling out of a sample of 2,692 clusters selected using Probability Proportional to size sampling.</description>
+    </item>
+    
+    <item>
+      <title>agriTutorial: Tutorial Analysis of Some Agricultural Experiments</title>
+      <link>https://myaseen208.com/publications/2019_agritutorial/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2019_agritutorial/</guid>
+      <description>Example software for the analysis of data from designed experiments, especially agricultural crop experiments. The basics of the analysis of designed experiments are discussed using real examples from agricultural field trials. A range of statistical methods using a range of R statistical packages are exemplified . The experimental data is made available as separate data sets for each example and the R analysis code is made available as example code. The example code can be readily extended, as required.</description>
+    </item>
+    
+    <item>
+      <title>dmai: Divisia Monetary Aggregates Index</title>
+      <link>https://myaseen208.com/publications/2019_dmai/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2019_dmai/</guid>
+      <description>Functions to calculate Divisia monetary aggregates index as given in Barnett, W. A. (1980)</description>
     </item>
     
     <item>
@@ -205,6 +331,15 @@
     </item>
     
     <item>
+      <title>Assessment of genetic variability in mustard against alternaria leaf spot disease through natural field conditions</title>
+      <link>https://myaseen208.com/publications/2019_bashir/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2019_bashir/</guid>
+      <description>The research was conducted for the source of resistance against Alternaria leaf spot disease of brassica. In the current research, ten varieties/ advanced lines were evaluated in 2016-17 and 2017-18 against this disease using Randomized Complete Block Design (RCBD) at the experimental research area of Oilseeds Research Institute, Ayub Agricultural Research Institute Faisalabad. During 2016, three advanced lines (RBN-13017, RBN-13022 and RBN-13029) exhibited moderately resistant response with 22.33%, 18.42% and 13.</description>
+    </item>
+    
+    <item>
       <title>Improving Quality in Textile Industry using Six Sigma with R</title>
       <link>https://myaseen208.com/blogs/2019-sixsigmar/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
@@ -214,12 +349,48 @@
     </item>
     
     <item>
+      <title>qccrs: Quality Control Charts under Repetitive Sampling</title>
+      <link>https://myaseen208.com/publications/2018_qccrs/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2018_qccrs/</guid>
+      <description>Functions to calculate Average Sample Numbers (ASN), Average Run Length (ARL1) and value of k, k1 and k2 for quality control charts under repetitive sampling as given in Aslam et al. (2014)</description>
+    </item>
+    
+    <item>
       <title>Factors affecting C-section deliveries in Punjab</title>
       <link>https://myaseen208.com/publications/2018_jabeen/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/publications/2018_jabeen/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>rgsp: Repetitive Group Sampling Plan Based on Cpk</title>
+      <link>https://myaseen208.com/publications/2018_rgsp/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2018_rgsp/</guid>
+      <description>Functions to calculate Sample Number and Average Sample Number for Repetitive Group Sampling Plan Based on Cpk as given in Aslam et al. (2013).</description>
+    </item>
+    
+    <item>
+      <title>baystability: Bayesian Stability Analysis of Genotype by Environment Interaction (GEI).</title>
+      <link>https://myaseen208.com/publications/2018_bayestability/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2018_bayestability/</guid>
+      <description>Performs general Bayesian estimation method of linear-bilinear models for genotype � environment interaction. The method is explained in Perez-Elizalde, S., Jarquin, D., and Crossa, J. (2011) (doi:10.1007/s13253-011-0063-9).</description>
+    </item>
+    
+    <item>
+      <title>stability: Stability Analysis of Genotype by Environment Interaction (GEI)</title>
+      <link>https://myaseen208.com/publications/2017_stability/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2017_stability/</guid>
+      <description>Functionalities to perform Stability Analysis of Genotype by Environment Interaction (GEI) to identify superior and stable genotypes under diverse environments. It performs Eberhart &amp;amp; Russel&amp;rsquo;s ANOVA (1966) (doi:10.2135/cropsci1966.0011183X000600010011x), Finlay and Wilkinson (1963) Joint Linear Regression (doi:10.1071/AR9630742), Wricke (1962, 1964) Ecovalence, Shukla&amp;rsquo;s stability variance parameter (1972) (doi:10.1038/hdy.1972.87) and Kang&amp;rsquo;s (1991) (doi:10.2134/agronj1991.00021962008300010037x) simultaneous selection for high yielding and stable parameter.</description>
     </item>
     
     <item>
@@ -369,6 +540,51 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     </item>
     
     <item>
+      <title>ppcSpatial: Spatial Analysis of Pakistan Population Census</title>
+      <link>https://myaseen208.com/publications/2017_ppcspatial/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2017_ppcspatial/</guid>
+      <description>Spatial Analysis for exploration of Pakistan Population Census 2017 (http://www.pbscensus.gov.pk/). It uses data from R package &amp;lsquo;PakPC2017&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Empirical Comparison of Partial Least Squares, Principal Component and Ridge Regression in the presence of multicollinearity</title>
+      <link>https://myaseen208.com/publications/2018_emperical/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2018_emperical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors affecting C-section deliveries in Punjab</title>
+      <link>https://myaseen208.com/publications/2018_factors/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2018_factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gvcR: Genotypic Variance Components</title>
+      <link>https://myaseen208.com/publications/2020_gvcr/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2020_gvcr/</guid>
+      <description>Functionalities to compute model based genetic components i.e. genotypic variance, phenotypic variance and heritability for given traits of different genotypes from replicated data using methodology explained by Burton, G. W. &amp;amp; Devane, E. H. (1953) (doi:10.2134/agronj1953.00021962004500100005x) and Allard, R.W. (2010, ISBN:8126524154).</description>
+    </item>
+    
+    <item>
+      <title>PakPC2017: Pakistan Population Census 2017</title>
+      <link>https://myaseen208.com/publications/2018_pakpc2017/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2018_pakpc2017/</guid>
+      <description>Provides data sets and functions for exploration of Pakistan Population Census 2017 (http://www.pbscensus.gov.pk/).</description>
+    </item>
+    
+    <item>
       <title>A Comparative Study of Different Amendments on Amelioration of Saline-Sodic Soils Irrigated with Water Having Different EC: SAR Ratios</title>
       <link>https://myaseen208.com/publications/2017_murtaza/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
@@ -411,6 +627,60 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
       
       <guid>https://myaseen208.com/publications/2017_ishaq/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>PSLM2015: Pakistan Social and Living Standards Measurement Survey 2014-15</title>
+      <link>https://myaseen208.com/publications/2015_pslm2015/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2015_pslm2015/</guid>
+      <description>Data and statistics of Pakistan Social and Living Standards Measurement (PSLM) survey 2014-15 from Pakistan Bureau of Statistics (http://www.pbs.gov.pk/).</description>
+    </item>
+    
+    <item>
+      <title>VetResearchLMM: Linear Mixed Models- An Introduction with Applications in Veterinary Research.</title>
+      <link>https://myaseen208.com/publications/2015_vetresearchlmm/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2015_vetresearchlmm/</guid>
+      <description>R Codes and Datasets for Duchateau, L. and Janssen, P. and Rowlands, G. J. (1998). Linear Mixed Models. An Introduction with applications in Veterinary Research. International Livestock Research Institute.</description>
+    </item>
+    
+    <item>
+      <title>Effect of physical form of feed and addition of live yeast culture (saccharomyces cerevisiae) on the growth performance and carcass traits of beetal male kids under high input feeding system</title>
+      <link>https://myaseen208.com/publications/2017_effect/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2017_effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PakPMICS2014Ch: Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2017_pakpmics2014ch/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2017_pakpmics2014ch/</guid>
+      <description>Provides data set and functions for exploration of Multiple Indicator Cluster Survey (MICS) 2014 Child questionnaire data for Punjab, Pakistan (http://www.mics.unicef.org/surveys).</description>
+    </item>
+    
+    <item>
+      <title>PakPMICS2014HH: Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2017_pakpmics2014hh/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2017_pakpmics2014hh/</guid>
+      <description>Provides data set and function for exploration of Multiple Indicator Cluster Survey (MICS) 2014 Household questionnaire data for Punjab, Pakistan (http://www.mics.unicef.org/surveys).</description>
+    </item>
+    
+    <item>
+      <title>PakPMICS2014HL: Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2017_pakpmics2014hl/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2017_pakpmics2014hl/</guid>
+      <description>Provides data set and function for exploration of Multiple Indicator Cluster Survey 2014 Household Listing questionnaire data for Punjab, Pakistan.</description>
     </item>
     
     <item>
@@ -513,15 +783,6 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     </item>
     
     <item>
-      <title>Reclamation of wastewater containing Cu(II) using alginated Mentha spicata biomass</title>
-      <link>https://myaseen208.com/publications/2016_ansari/</link>
-      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://myaseen208.com/publications/2016_ansari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AMMI Biplot analysis for comparative evaluation of maize genotypes under different saline environments</title>
       <link>https://myaseen208.com/publications/2016_aslam/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
@@ -540,6 +801,105 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     </item>
     
     <item>
+      <title>StroupGLMM: R Codes and Datasets for Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup</title>
+      <link>https://myaseen208.com/publications/2016_stroupglmm/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_stroupglmm/</guid>
+      <description>R Codes and Datasets for Stroup, W. W. (2012). Generalized Linear Mixed Models: Modern Concepts, Methods and Applications, CRC Press.</description>
+    </item>
+    
+    <item>
+      <title>An Empirical Investigation of Economic Variables of Pakistan by Using Autoregressive Distributed LAG Model</title>
+      <link>https://myaseen208.com/publications/2016_imperial/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_imperial/</guid>
+      <description>In this research two main techniques of time series analysis, Co-integration and Autoregressive Distributed Lag (ARDL) model were discussed with the advantages of one technique over the other. This study used to investigate the relationship between five economic variables of Pakistan by using monthly data for the period 1975 to 2015. ARDL model was used to study the relationship between Exchange Rate on Consumer Price Index, Money Supply, Imports and Exports.</description>
+    </item>
+    
+    <item>
+      <title>Assessing the In-control Robustness of Progressive Mean Control Chart</title>
+      <link>https://myaseen208.com/publications/2016_assesing/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_assesing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Approach: An Alternative of Additive Main effect and Multiplicative Interaction (AMMI) model for Genotype-by-Environment Interaction (GEI)</title>
+      <link>https://myaseen208.com/publications/2016_bayesianapproach/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_bayesianapproach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian network for modeling relationships among variables of neonatal sepsis</title>
+      <link>https://myaseen208.com/publications/2016_bayesian/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Tool for the Assessment of English and Urdu Handwriting</title>
+      <link>https://myaseen208.com/publications/2016_development/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought Forecasting using Seasonal Autoregressive Integrated Moving Average Models and Artificial Neural Networks</title>
+      <link>https://myaseen208.com/publications/2016_drought/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_drought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impulse Response Function Analysis: An Application to Macroeconomic Data of Pakistan</title>
+      <link>https://myaseen208.com/publications/2016_impulse/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_impulse/</guid>
+      <description>Impulse response function (IRF) is increasingly common in financial markets; it is significantly related to policy changes of Government or the firm. An IRF of any dynamic model is its reaction to some external fluctuations emerged with brief input signals over time. It is a way to examine and evaluate the impact of external shocks. To make a comprehensive view of Pakistan&amp;rsquo;s macroeconomy, six typical macroeconomic indicators focused for analysis. In this study the impact of one variable to all other variables with respect to external shocks has valued description with the help of VAR model.</description>
+    </item>
+    
+    <item>
+      <title>Interpolating CD Metal in Soil Using Spatial Techniques in Metropolis Areas of Faisalabad</title>
+      <link>https://myaseen208.com/publications/2016_interpolating/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_interpolating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Equation Modeling to study the relationship of Cotton fiber traits</title>
+      <link>https://myaseen208.com/publications/2016_structural/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis and Forecasting of Water Reservoir in Pakistan</title>
+      <link>https://myaseen208.com/publications/2016_forecasting/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_forecasting/</guid>
+      <description>In water resource management daily flow to the reservoir is most important factor, in this study the daily flow to the reservoir as well as upstream has been forecast by different models. Autoregressive Integrated Moving Average (ARIMA) and Autoregressive Moving Average (ARMA) models has been used to forecast daily flow of different dams and linked canals in Pakistan. Application in practical science ARIMA model plays an important role. Both ARIMA and ARMA model has been used to compare the capability of autoregressive forecast of daily dam reservoir inflow.</description>
+    </item>
+    
+    <item>
       <title>An Introduction to Econometrics with R</title>
       <link>https://myaseen208.com/seminars/2016-econr-sbp/</link>
       <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
@@ -555,6 +915,15 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
       
       <guid>https://myaseen208.com/seminars/2016-stat-uaf/</guid>
       <description>Workshop Statistics: The Art and Science of Learning from Data held on February 6, 2016 at the University of Agriculture Faisalabad, Pakistan</description>
+    </item>
+    
+    <item>
+      <title>Grain Cadmium concentration decreased in Rice (Oryza sativa L.) while managing different Water Regimes</title>
+      <link>https://myaseen208.com/publications/2016_grain/</link>
+      <pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2016_grain/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -603,12 +972,66 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     </item>
     
     <item>
+      <title>Reclamation of wastewater containing Cu(II) using alginated Mentha spicata biomass</title>
+      <link>https://myaseen208.com/publications/2015_ansari/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2015_ansari/</guid>
+      <description>The task of looking for new and potentially feasible metal biosorbents has a wide scope. In the present work, optimization of thermodynamic and kinetic parameters has been carried out for the removal of Cu(II) from aqueous solution using Mentha spicata distillation waste (native and alginated) biomass. M. spicata distillation waste biomass was efficiently used for toxic Cu(II) removal under optimized conditions of pH, biosorbent dose, biosorbent size, initial metal concentration, contact time, and desorption.</description>
+    </item>
+    
+    <item>
+      <title>Yield Losses in Chickpea (Cicer arietinum L.) with Varying Densities of Euphorbia dracunculoides L.</title>
+      <link>https://myaseen208.com/publications/2015_tanveer/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2015_tanveer/</guid>
+      <description>Knowledge of economic threshold level and growth habits of weeds in chickpea is essential to implement timely, effective, and economical weed control treatments. The effect of weed density on growth and yield performance in chickpea using dragon spurge as a test weed was investigated for 2 consecutive yr. Dragon spurge density levels of 5, 10, 15, 20, 25, 30, 35, and 40 plants m???2 were compared with weed-free plots. Each increment in densities of dragon spurge from 5 to 40 plants m?</description>
+    </item>
+    
+    <item>
       <title>An Introduction to R</title>
       <link>https://myaseen208.com/seminars/2015-r-uaf/</link>
       <pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/seminars/2015-r-uaf/</guid>
       <description>Workshop An Introduction to R held on March 28, 2015 at the University of Agriculture, Faisalabad, Pakistan</description>
+    </item>
+    
+    <item>
+      <title>Identification of resistant source in lentil germplasm against Fusarium wilt in relation to environmental factors</title>
+      <link>https://myaseen208.com/publications/2015_fatima/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2015_fatima/</guid>
+      <description>Lentil is a valuable human food and one of the oldest known protein rich food legumes which is also known as poor men&amp;rsquo;s meat. Owing to biotic and abiotic stresses, the crop yield is below attainable levels which are mainly attributed to pathological factors especially lentil wilt caused by Fusarium oxysporum f.sp. lentis. It is a potential threat to lentil production not only in Pakistan but worldwide as well that can cause complete crop failure.</description>
+    </item>
+    
+    <item>
+      <title>AMMI Biplot analysis for comparative evaluation of maize genotypes under different saline environments</title>
+      <link>https://myaseen208.com/publications/2015_aslam/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2015_aslam/</guid>
+      <description>Salinity is amongst the leading abiotic stresses which adversely affects the crop productivity. It brings multiple disorders in normal plant functionality and suppresses yield up to drastic level. Under subjection to salinity, maize crop interacts differently with different environmental conditions and shows different responses. Plants interact positively, negatively and sometimes no interaction with environment for various plant traits. Genotype x Environment Interaction (GEI) of maize genotypes with three salinity levels was studied for some selected morpho-physiological traits i.</description>
+    </item>
+    
+    <item>
+      <title>Mulching Improves Water Productivity, Yield and Quality of Fine Rice under Water-saving Rice Production Systems</title>
+      <link>https://myaseen208.com/publications/2015_jabran/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2015_jabran/</guid>
+      <description>Water-saving rice production systems are inevitable in the wake of severe water shortage in rice-growing regions of the world. Mulches can improve water productivity, yield and quality of rice through increase in water retention. Studies were conducted for two consecutive years to assess the potential role of mulches (plastic and straw) in improving the performance of water-saving rice production systems in comparison with no mulch used and conventionally irrigated transplanted rice.</description>
+    </item>
+    
+    <item>
+      <title>Bt transgenes minimally influence maize grain yield and lodging across plant populations</title>
+      <link>https://myaseen208.com/publications/2014_novacek/</link>
+      <pubDate>Sat, 04 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2014_novacek/</guid>
+      <description>Adoption of maize (Zea mays L) hybrids containing Bt (Bacillus thuringiensis) transgenes and increased plant population is widespread but little scientific research exists on their interactions with production environments in the Western Maize Belt of the United States. Two pairs of near-isogenic Bt and non-Bt maize hybrids were grown under rainfed and irrigated conditions from 2008 to 2010 at target populations from 49,300 to 111,100 plants ha-1 near Mead, NE. The objective was to determine the influence of the presence/absence of Bt transgenes for European corn borer [Ostrinia nubilalis (H�bner) - ECB] and corn rootworm [Diabrotica spp.</description>
     </item>
     
     <item>
@@ -630,6 +1053,51 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     </item>
     
     <item>
+      <title>Modeling Survival Rates of Cardiovascular Patients in Faisalabad</title>
+      <link>https://myaseen208.com/publications/2014_modeling/</link>
+      <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2014_modeling/</guid>
+      <description>Cardiovascular diseases have become common problem in developing countries including Pakistan. Survival analysis is a statistical technique used to model the time duration to until one or more events happen, such as death in biological organisms and failure in mechanical systems. In this study, we modeled the survival rates of cardiovascular patients who had heart attacks using survival analysis and log-rank test was used to compare the survival rates across gender.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Analysis of Hepatitis C Epidemiology in Faisalabad District</title>
+      <link>https://myaseen208.com/publications/2014_spatial/</link>
+      <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2014_spatial/</guid>
+      <description>Hepatitis C, caused by the Hepatitis C virus (HCV), is an infectious disease affecting mostly the liver. The infection is often without symptoms. However, long lasting infection can lead to scarring of the liver. HCV is spreading mostly by blood-to-blood contact, drug use, poorly sterilized medical equipment and transfusions. The disease is becoming a major health problem for developing countries including Pakistan. World Health Organization rated Pakistan as second country in the world having high rates of chronic liver infections.</description>
+    </item>
+    
+    <item>
+      <title>Potential use of GGE Bi-plot analysis to evaluate white Sorghum grain attributes for end uses</title>
+      <link>https://myaseen208.com/publications/2014_yaseen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2014_yaseen/</guid>
+      <description>Genotype (G) and environment (E) interaction effects for grain quality are important to processors of white sorghum grain. The objective of this study was to analyze the genotype plus genotype-by-environment interaction effect (GGE) for grain attributes of 11white-grained sorghum G produced in 12 E in Nebraska. Environments included combinations of 4 locations, and two years, water regimes and N levels. GGE analysis can help processors of sorghum grain by selection of G and E to meet kernel mass, starch concentration and viscosity desired for different uses since GGE accounted for 18 to 23% of total variation, but not for yield and hardness since GGE accounted for &amp;lt; 5% of total variation.</description>
+    </item>
+    
+    <item>
+      <title>Food-handling Practices and Knowledge among Families with Young Children</title>
+      <link>https://myaseen208.com/publications/2013_lum/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2013_lum/</guid>
+      <description>Children are at higher risk for foodborne illness than adults. Primary food handlers for young children have a direct impact on their child&amp;rsquo;s food safety risk. The objective of this study was to determine food safety handling practices and knowledge of main food preparers in families with children &amp;lt; 10 years of age. Participants (n = 503) were female (67%), Caucasian (80%), 30-49 years of age (83%), college educated (79%) and had one to two children 10 years and younger (83%).</description>
+    </item>
+    
+    <item>
+      <title>Cultural, mechanical and chemical weed control in wheat</title>
+      <link>https://myaseen208.com/publications/2013_jabran/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2013_jabran/</guid>
+      <description>Effective weed control in wheat crop promises attractive grains harvest and subsequent food security in Pakistan. The objective of this study was to evaluate cultural (stale seed bed and double seed rate), mechanical (bar harrow, hand hoeing and hand pulling) and chemical weed control (bromoxynil+MCPA, fenoxaprop-p-ethyl, and a combination of both] for managing weeds and improving yield in wheat crop. Weed control methods varied in suppressing weeds and improving grain yield of wheat.</description>
+    </item>
+    
+    <item>
       <title>An Introduction to R-Programming Language for Statistical Computing</title>
       <link>https://myaseen208.com/seminars/2013-r-uaf/</link>
       <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
@@ -639,12 +1107,184 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     </item>
     
     <item>
+      <title>Yield and Yield Components of Wheat (Triticum Aestivum L.) affected by Aphid feeding and sowing time at Multan, Pakistan</title>
+      <link>https://myaseen208.com/publications/2013_shahzad/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2013_shahzad/</guid>
+      <description>We assessed feeding effect of Schizaphis graminum Rond. and Rhopalosiphum padi L. (Homoptera: Aphididae) on yield losses to wheat (Triticum aestivum L.) (Cv. Sahar) sown on November 05th (early November), November 20th (late November) and December 05th (early December) during 2011, at Multan, Punjab (Pakistan). Aphids were controlled by applying imidacloprid 200 SL with Knapsack sprayer, as one spray (5th March), two sprays (5th and 26th March 2012) and no spray (control).</description>
+    </item>
+    
+    <item>
+      <title>Modelling Fertility Patterns of Pakistan during 1984-2007</title>
+      <link>https://myaseen208.com/publications/2013_zakria/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2013_zakria/</guid>
+      <description>Modelling fertility patterns of a population has gained popularity among the demographers in recent years. This article investigates the fertility patterns of Pakistan and its urban and rural regions. The analysis of age specific fertility rates (ASFRs) has demonstrated high fertility in rural population as compared to urban and overall Pakistan population during the period 1984-2007. Substantial respective decreases of 44.98%, 48.72% and 46.76% in total fertility rates (TFRs) of rural, urban and overall Pakistan have been observed during the past 23 years.</description>
+    </item>
+    
+    <item>
+      <title>Twin Rows Minimally Impact Irrigated Maize Yield, Morphology, and Lodging</title>
+      <link>https://myaseen208.com/publications/2013_novacek/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2013_novacek/</guid>
+      <description>Twin rows are being promoted as a means to increase maize yield through increased interception of photosynthetically active radiation (PAR) and plant morphology modifi cation. Th e objective of this research was to explore the interactive eff ects of maize hybrid, plant population, and row confi guration on grain yield and grain yield components, interception of PAR during vegetative growth, plant morphology, and percent lodging. Twin-row irrigated maize produced the same grain yield as single-row production.</description>
+    </item>
+    
+    <item>
+      <title>Modelling the Age Specific Fertility Rates of Rural and Urban Areas of Pakistan During 1984-2007</title>
+      <link>https://myaseen208.com/publications/2012_modelingage/</link>
+      <pubDate>Wed, 19 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2012_modelingage/</guid>
+      <description>This paper investigates the fertility pattern of Pakistan and its major breakdown rural and urban areas. The analysis of the age specific fertility rates (ASFRs) illustrated the greater fertility in the rural population as compared to the urban and of Pakistan population during the period 1984-2007. Approximately, 44.98% decrease in total fertility rate (TFR) of urban population during the past 23 years has been seen whereas 48.72% and 46.76% decrease in TFR of urban area and of Pakistan respectively with reference to the 1984.</description>
+    </item>
+    
+    <item>
       <title>Statistical and Economic Analysis of Experimental Data using Statistical Software</title>
       <link>https://myaseen208.com/seminars/2012-doe-ari/</link>
       <pubDate>Mon, 17 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/seminars/2012-doe-ari/</guid>
       <description>Workshop Statistical and Economic Analysis of Experimental Data using Statistical Software held on December 17-21, 2012 at Agricultural Research Institute (ARI), Muzaffarabad, AJK, Pakistan</description>
+    </item>
+    
+    <item>
+      <title>Estimation of Optimum Field Plot Size and Shape in Paddy Yield Trial</title>
+      <link>https://myaseen208.com/publications/2012_masood/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2012_masood/</guid>
+      <description>The present study was designed to estimate the optimum plot size with the shape for field research experiments on paddy yield trial considering the effect of plot size on variability in yield of crop as well as studying the coefficients of variation of different plot sizes and shapes of plots. The Smith&amp;rsquo;s index of soil heterogeneity was computed to estimate optimum plot size and shape using yield data of the 12m�24m recorded separately from each basic unit of 1m�1m (288 basic units).</description>
+    </item>
+    
+    <item>
+      <title>Rural dentists Does growing up in a small community matter?</title>
+      <link>https://myaseen208.com/publications/2012_mcfarland/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2012_mcfarland/</guid>
+      <description>Background. The aging of the dental work- force has implications for both patients and dentists, especially those in rural and underserved areas.Anecdotal information regarding dental workforce trends indicates that students from rural communities are more likely to practice in rural communities than are students from urban areas.Although the medical literature supports this premise relative to physicians, there are no data to verify this statement relative to dentistry. Therefore, the authors decided to study whether this premise applies to dentistry.</description>
+    </item>
+    
+    <item>
+      <title>Access to Dental Care for Rural Children: A Survey of Nebraska General Dentists</title>
+      <link>https://myaseen208.com/publications/2011_mcfarland/</link>
+      <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2011_mcfarland/</guid>
+      <description>Background: Pediatric dentists are too few in number to care for all children. Therefore, the level of pediatric dental services provided by general dentists, especially in rural areas, is crucial to improving the dental health of children. Purpose: The objectives of the study were to establish a baseline in regard to the quantity of pediatric dental care provided by general dentists in rural Nebraska as well as to measure their interest, if any, in receiving additional pediatric training.</description>
+    </item>
+    
+    <item>
+      <title>Environment and Hybrid Influences on Rapid-Visco-Analysis Flour Properties of Food-Grade Grain Sorghum?</title>
+      <link>https://myaseen208.com/publications/2011_griess/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2011_griess/</guid>
+      <description>Grain processors would benefi t from information about the production environment and the infl uences of the sorghum [Sorghum bicolor (L.) Moench] hybrid on food-grade fl our properties. The objective of this study was to determine the effects of environment and hybrid on rapid-visco-analysis (RVA) fl our properties of commercially available food-grade sorghum. A randomized complete block experiment was planted in 12 environments, which included the 2004 and 2005 growing seasons and irrigated and dryland water regimes in eastern, central, and west central Nebraska, and a dryland, low-N environment in eastern Nebraska.</description>
+    </item>
+    
+    <item>
+      <title>Studying the impact of farm mechanization on wheat production in Punjab-Pakistan</title>
+      <link>https://myaseen208.com/publications/2011_yamin/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2011_yamin/</guid>
+      <description>Contribution of mechanical inputs in farming is considered in terms of farm mechanization. Farm mechanization has helped in increasing the cultivated area and yield of major crops like wheat, rice and maize to 0.4%, 10.4% and 27.3% respectively by bringing barren land under cultivation (GOP, 2006). To study the present status of farm mechanization in all the districts of Punjab using GIS, data of farm machines, sowing area and wheat crop production was collected from Census Organizations for 1994-95 to 2004-05.</description>
+    </item>
+    
+    <item>
+      <title>Rural Dentists of the Future: Dental School Enrollment Strategies</title>
+      <link>https://myaseen208.com/publications/2010_mcfarland/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2010_mcfarland/</guid>
+      <description>The purpose of this study was to determine the relationship, if any, of a dental student&amp;rsquo;s 1) state of residency and 2) gender to his or her practice location in a rural Nebraska community after graduation. Previous research has demonstrated that dental students generally locate their practices near their place of rearing and that male graduates are more likely than female graduates to locate in rural areas. Dental student data for all University of Nebraska Medical Center College of Dentistry graduates from 1989 to 2008 (n=879) were analyzed.</description>
+    </item>
+    
+    <item>
+      <title>Environment and Hybrid Influences on Food-Grade Sorghum Grain Yield and Hardness</title>
+      <link>https://myaseen208.com/publications/2010_griess/</link>
+      <pubDate>Tue, 20 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2010_griess/</guid>
+      <description>Few studies have examined grain quality of food-grade sorghum hybrids. The objective of this study was to determine the effects of environment and hybrid on grain quality of commercially available food-grade sorghums. A randomized complete block experiment with three replications was planted in 12 environments, which included the 2004 and 2005 growing seasons and irrigated and dryland water regimes in eastern, central, and west central Nebraska and a dryland low-N environment in eastern Nebraska.</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of three Pakistani sheep breeds for their natural resistance to artificial infection of Haemonchus contortus.</title>
+      <link>https://myaseen208.com/publications/2010_saddiqi/</link>
+      <pubDate>Fri, 26 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2010_saddiqi/</guid>
+      <description>This study was carried out to evaluate three Pakistani sheep breeds (Kachhi, Lohi and Thalli) for their natural resistance against artificial infection of Haemonchus contortus. Lambs were weaned at 3 months of age, housed in separate pens and treated with Avermectin to eliminate gastrointestinal nematode infection. Each lamb was infected orally with approximately 10,000 third stage larvae of H. contortus. Selected breeds were compared on the basis of parasitological, haematological, biochemical and histopathological parameters over a period of 9 weeks.</description>
+    </item>
+    
+    <item>
+      <title>Multiple anthelmintic resistance and the possible contributory factors in Beetal goats in an irrigated area (Pakistan)</title>
+      <link>https://myaseen208.com/publications/2009_saeed/</link>
+      <pubDate>Thu, 06 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2009_saeed/</guid>
+      <description>This paper presents the first report of multiple anthelmintic resistance in the gastrointestinal nematodes of goats and its possible contributory factors in an irrigated area (Pakistan). A total of 18 privately owned Beetal goat flocks were selected in order to determine the anthelmintic resistance against commonly used anthelmintics. Forty to 48 animals from each flock were selected according to their weight and egg count. The three anthelmintics viz., oxfendazole, levamisole and ivermectin, were given to three groups at manufacturer&amp;rsquo;s recommended dose while one group was kept as untreated control.</description>
+    </item>
+    
+    <item>
+      <title>Farmers&#39; perceptions of insect pests and pest management practices in Bt cotton in the Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2009_arshad/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2009_arshad/</guid>
+      <description>The aim of this study was to (1) examine the factors involved in the adoption or non-adoption of Bt cotton, (2) identify sources of Bt cotton seed acquisition, and (3) evaluate farmers&amp;rsquo; knowledge and perception of insect pests incidence and management practices in Bt cotton in the Punjab, Pakistan. A total of 150 farmers growing Bt cotton expressing Cry1Ac protein were interviewed in the main cotton-growing districts of the Punjab province.</description>
+    </item>
+    
+    <item>
+      <title>Comparative productive performance and egg characteristics of pullets and spent layers</title>
+      <link>https://myaseen208.com/publications/2008_yasmeen/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2008_yasmeen/</guid>
+      <description>Production performance and egg quality characteristics of pullets and spent layers were compared in this study. Forty birds, each from the flocks of pullets (24 weeks old) and spent layers (76 weeks old) were selected as experimental birds. The birds from each age group were divided into five replicates, each comprising of eight birds. All the experimental birds were fed a commercial layer ration @ 110g/bird/day for 12 weeks. The data on egg production, feed consumption, egg weight and egg quality characteristics viz.</description>
+    </item>
+    
+    <item>
+      <title>Removal of Lead from Calcareous Contaminated Soils by Organic Acids</title>
+      <link>https://myaseen208.com/publications/2008_saifullah/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2008_saifullah/</guid>
+      <description>The comparative performance of two organic acids (EDTA, citric acid) for the removal of Pb from two texturally different soils (loamy sand, sandy clay loam soil) was evaluated. The extraction of Pb increased with increasing organic acid concentration and removal from sandy clay soil was lower than from loamy sand soil. Maximum Pb removal (330.6 mg kg-1) was achieved in loamy sand soil where highest concentration (32 mmol kg-1) of EDTA was applied.</description>
+    </item>
+    
+    <item>
+      <title>Determinants influencing prevalence of louse infestations on layers of District Faisalabad (Pakistan)</title>
+      <link>https://myaseen208.com/publications/2007_nadeem/</link>
+      <pubDate>Mon, 22 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2007_nadeem/</guid>
+      <description>This paper describes the influence of some epidemiological determinants on the prevalence of louse infestation on layers in Faisalabad (Pakistan). Seventy layer farms were screened to determine the prevalence of louse infestation and its determinants including age of the bird, availability of space per bird and frequency of litter change. Prevalence of Lipeurus caponis was highest (53�2%), followed by Menacanthus stramineus (22�16%), Goniodes dissimilis (12�37%) and Goniodes gallinae (12�37%). Older birds (36 to 74 weeks of age) were found with a significantly higher prevalence of louse infestation than younger birds.</description>
+    </item>
+    
+    <item>
+      <title>Anthelmintic activity of Chenopodium album (L.) and Caesalpinia crista (L.) against trichostrongylid nematodes of sheep</title>
+      <link>https://myaseen208.com/publications/2007_jabbar/</link>
+      <pubDate>Mon, 08 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2007_jabbar/</guid>
+      <description>Aim of the study The present study was carried out to determine the anthelmintic activity of Caesalpinia crista (L.) (Fabaceae) seed kernel and Chenopodium album (L.) (Chenopodiaceae) whole plant in order to justify their traditional use in veterinary medicine.
+Materials and methods In vitro anthelmintic activity of crude aqueous methanolic extract (AME) of both the plants was determined using mature Haemonchus contortus and their eggs in adult motility assay and egg hatch test, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Point prevalence of gastrointestinal helminthiasis in ruminants in southern Punjab, Pakistan</title>
+      <link>https://myaseen208.com/publications/2007_raza/</link>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2007_raza/</guid>
+      <description>The present study was carried out to determine the prevalence of gastrointestinal helminthiasis in ruminants in an irrigated area of lower Punjab (Pakistan). For this purpose, 100 faecal samples were collected from sheep, goats, cattle and buffaloes. Parasitological procedures including direct and indirect methods (sedimentation and floatation) and coproculture were used for the identification of helminths. The overall prevalence of helminthiasis was 51% in cattle, 47% in buffaloes, 62% in sheep and 52% in goats, with nematodes being the most common helminths.</description>
     </item>
     
     <item>
@@ -672,6 +1312,33 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
       
       <guid>https://myaseen208.com/seminars/2007-doe-azre/</guid>
       <description>Workshop Statistical and Economical Analysis of Field Experiments held on May 21-25, 2007 at AZRE, Quetta, Balochistan, Pakistan</description>
+    </item>
+    
+    <item>
+      <title>Alpha-Adrenergic Blocker (Doxazosin): Role in Medical Management of Ureteric Stone</title>
+      <link>https://myaseen208.com/publications/2007_malik/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2007_malik/</guid>
+      <description>Majority of uncomplicated distal ureteric stones can be managed conservatively by non-steroidal anti-inflammatory drugs (NSAIDS), hormones, calcium channel blockers, corticosteroids, and alpha-adrenoreceptor blocker drugs. Oedema and ureteral spasm are two important contributing factors causing retention of stone. Objective of this study was to assess the outcome of using (NSAIDS) and alpha blockers in the conservative management of distal ureteric stones. Total number of patients in this prospective study was 120 and study period was 15 months.</description>
+    </item>
+    
+    <item>
+      <title>Performance of suflower in response to nitrogen management at different stages</title>
+      <link>https://myaseen208.com/publications/2007_munir/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2007_munir/</guid>
+      <description>Studies were conductesd for two years (2004 and 2005) to access the comparative productivity of sunflower to nitrogen application in various splits. Nitrogen was applied at 100 Kg ha&amp;rsquo; as full at sowing, full at 1s t irrigation, full at flowering, Y 2 at sowing + Y 2 at 1st irrigation, Y 2 at sowing + Y 2 at flowering, Y 2 at 1 st irrigation + Y 2 at flowering, 1/3 at sowing + 1/3 at 1st irrigation + 1/3 at flowering, 1/3 at sowing + 1/3 at 1st irrigation + 1/3 at seed formation and 1/3 at sowing + 1/3 at flowering + 1/3 at seed formation.</description>
+    </item>
+    
+    <item>
+      <title>Direct and indirect anthelmintic effects of condensed tannins in sheep</title>
+      <link>https://myaseen208.com/publications/2007_iqbal/</link>
+      <pubDate>Fri, 15 Sep 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2007_iqbal/</guid>
+      <description>Anthelmintic activity of condensed tannins (CT) was evaluated both in vitro and in vivo. In vitro tests included egg hatch test and paralysis/mortality assay on adult Haemonchus contortus. In vivo anthelmintic effect was determined by faecal egg count reduction test in lambs. To this end, 18 lambs were divided into three groups (low tannin, high tannin and control). The lambs of low and high tannin groups were fed diets containing 2 and 3% CT while the control group was fed on diets without CT.</description>
     </item>
     
     <item>
@@ -726,6 +1393,15 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
       
       <guid>https://myaseen208.com/seminars/2005-statistica-narc/</guid>
       <description>Workshop Training Course on Design and Analysis of Agricultural Field Experiments using STATISTICA held on Feb 21-25, 2005 at Social Sciences Institute, National Agriculture Research Center, Islamabad, Pakistan</description>
+    </item>
+    
+    <item>
+      <title>Modeling and forecasting the sugarcane yield of Pakistan</title>
+      <link>https://myaseen208.com/publications/2005_yaseen/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2005_yaseen/</guid>
+      <description>The present study was planned to Model and forecast the sugarcane yield of Pakistan. The findings of present study are based on sugarcane yield data during the period (1947-2002). The most appropriate Model for the present study is ARIMA (2, 1, 2). Forecasting was also done up to 2008-2009. For comparison purposes, first three forecast values from 1999-2000 to 2001-2002 are compared with the actual values. Forecasts values are very close to the actual values.</description>
     </item>
     
     <item>
