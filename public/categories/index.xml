@@ -5,11 +5,38 @@
     <link>https://myaseen208.com/categories/</link>
     <description>Recent content in Categories on Muhammad Yaseen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://myaseen208.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myaseen208.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bioinformatics</title>
+      <link>https://myaseen208.com/categories/bioinformatics/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/categories/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biostatistics</title>
+      <link>https://myaseen208.com/categories/biostatistics/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/categories/biostatistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://myaseen208.com/categories/data-science/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>R</title>
       <link>https://myaseen208.com/categories/r/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/categories/r/</guid>
       <description></description>
@@ -18,7 +45,7 @@
     <item>
       <title>Research</title>
       <link>https://myaseen208.com/categories/research/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/categories/research/</guid>
       <description></description>
@@ -27,27 +54,9 @@
     <item>
       <title>Statistics</title>
       <link>https://myaseen208.com/categories/statistics/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/categories/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Science</title>
-      <link>https://myaseen208.com/categories/data-science/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://myaseen208.com/categories/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPSS</title>
-      <link>https://myaseen208.com/categories/spss/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://myaseen208.com/categories/spss/</guid>
       <description></description>
     </item>
     
@@ -124,11 +133,11 @@
     </item>
     
     <item>
-      <title>Bioinformatics</title>
-      <link>https://myaseen208.com/categories/bioinformatics/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <title>SPSS</title>
+      <link>https://myaseen208.com/categories/spss/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://myaseen208.com/categories/bioinformatics/</guid>
+      <guid>https://myaseen208.com/categories/spss/</guid>
       <description></description>
     </item>
     

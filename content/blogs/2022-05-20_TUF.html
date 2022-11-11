@@ -1,0 +1,719 @@
+---
+title: "Statistics: The Art & Science of Learning from Data"
+description: |
+  "Statistics: The Art & Science of Learning from Data"
+author:
+  - name: Muhammad Yaseen 
+    url: http://myaseen208.com/
+    affiliation: 
+    affiliation_url: http://myaseen208.com/
+date: 2022-05-20
+comments: false
+slug: 2022-TUF
+categories:
+- Data Science
+- Statistics
+- Biostatistics
+- Bioinformatics
+- Research
+- R
+mathjax: true
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
+    toc_collapsed: true
+    number_sections: true
+---
+
+<script src="/rmarkdown-libs/clipboard/clipboard.min.js"></script>
+<link href="/rmarkdown-libs/primer-tooltips/build.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/klippy/css/klippy.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/klippy/js/klippy.min.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#introduction"><span class="toc-section-number">1</span> Introduction</a>
+<ul>
+<li><a href="#statistics"><span class="toc-section-number">1.1</span> Statistics</a></li>
+<li><a href="#variable"><span class="toc-section-number">1.2</span> Variable</a></li>
+<li><a href="#measurement"><span class="toc-section-number">1.3</span> Measurement</a></li>
+<li><a href="#measurement-scales"><span class="toc-section-number">1.4</span> Measurement Scales</a></li>
+</ul></li>
+<li><a href="#exploring-data-with-graphs-numerical-summaries"><span class="toc-section-number">2</span> Exploring Data with Graphs &amp; Numerical Summaries</a>
+<ul>
+<li><a href="#graphs"><span class="toc-section-number">2.1</span> Graphs</a></li>
+<li><a href="#numerical-summaries"><span class="toc-section-number">2.2</span> Numerical Summaries</a></li>
+</ul></li>
+<li><a href="#descriptive-statistics"><span class="toc-section-number">3</span> Descriptive Statistics</a></li>
+<li><a href="#correlation-analysis"><span class="toc-section-number">4</span> Correlation Analysis</a></li>
+<li><a href="#an-introduction-to-linear-models"><span class="toc-section-number">5</span> An Introduction to Linear Models</a>
+<ul>
+<li><a href="#regression-analysis"><span class="toc-section-number">5.1</span> Regression Analysis</a></li>
+<li><a href="#analysis-of-variance-anova"><span class="toc-section-number">5.2</span> Analysis of Variance (ANOVA)</a></li>
+<li><a href="#analysis-of-covariance-ancova"><span class="toc-section-number">5.3</span> Analysis of Covariance (ANCOVA)</a></li>
+</ul></li>
+<li><a href="#an-introduction-to-r"><span class="toc-section-number">6</span> An Introduction to R</a></li>
+</ul>
+</div>
+
+<script>
+  addClassKlippyTo("pre.r, pre.python");
+  addKlippy('left', 'top', 'auto', '1', 'Copy code', 'Copied!');
+</script>
+<div id="introduction" class="section level1" number="1">
+<h1><span class="header-section-number">1</span> Introduction</h1>
+<div id="statistics" class="section level2" number="1.1">
+<h2><span class="header-section-number">1.1</span> Statistics</h2>
+<blockquote>
+<ul>
+<li>Statistics is the science of uncertainty &amp; variability</li>
+<li>Statistics turns data into information</li>
+<li>Data -&gt; Information -&gt; Knowledge -&gt; Wisdom</li>
+<li>Data Driven Decisions (3Ds)</li>
+<li>Statistics is the interpretation of Science</li>
+<li>Statistics is the Art &amp; Science of learning from data</li>
+</ul>
+</blockquote>
+<p> </p>
+</div>
+<div id="variable" class="section level2" number="1.2">
+<h2><span class="header-section-number">1.2</span> Variable</h2>
+<blockquote>
+<ul>
+<li>Characteristic that may vary from individual to individual</li>
+<li>Height, Weight, CGPA etc</li>
+</ul>
+</blockquote>
+<p> </p>
+</div>
+<div id="measurement" class="section level2" number="1.3">
+<h2><span class="header-section-number">1.3</span> Measurement</h2>
+<blockquote>
+<ul>
+<li>Process of assigning numbers or labels to objects or states in accordance with logically accepted rules</li>
+</ul>
+</blockquote>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:TrafficSignals"></span>
+<img src="https://github.com/myaseen208/material/raw/main/TrafficSignals.jpg" alt="Measurement" width="100%" />
+<p class="caption">
+Figure 1.1: Measurement
+</p>
+</div>
+<p> </p>
+</div>
+<div id="measurement-scales" class="section level2" number="1.4">
+<h2><span class="header-section-number">1.4</span> Measurement Scales</h2>
+<blockquote>
+<ul>
+<li><strong>Nominal Scale:</strong> Obersvations may be classified into mutually exclusive &amp; exhaustive classes or categories</li>
+<li><strong>Ordinal Scale:</strong> Obersvations may be ranked</li>
+<li><strong>Interval Scale:</strong> Difference between obersvations is meaningful</li>
+<li><strong>Ratio Scale:</strong> Ratio between obersvations is meaningful &amp; true zero point</li>
+</ul>
+</blockquote>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:MS"></span>
+<img src="https://github.com/myaseen208/material/raw/main/TypesofMeasurementScales.png" alt="Measurement Scales" width="100%" />
+<p class="caption">
+Figure 1.2: Measurement Scales
+</p>
+</div>
+<p> </p>
+</div>
+</div>
+<div id="exploring-data-with-graphs-numerical-summaries" class="section level1" number="2">
+<h1><span class="header-section-number">2</span> Exploring Data with Graphs &amp; Numerical Summaries</h1>
+<div id="graphs" class="section level2" number="2.1">
+<h2><span class="header-section-number">2.1</span> Graphs</h2>
+</div>
+<div id="numerical-summaries" class="section level2" number="2.2">
+<h2><span class="header-section-number">2.2</span> Numerical Summaries</h2>
+<div id="example" class="section level3" number="2.2.1">
+<h3><span class="header-section-number">2.2.1</span> Example</h3>
+<blockquote>
+<p>The following data shows the ID, Gender (Male, Female), Age, Race (Mexican American, Non-Hispanic Black, Non-Hispanic White, Other Hispanic, Other/Mixed), BMI, and BMI.Cat (Under Weight, Normal Weight, Over Weight, Obese) from the National Health and Nutrition Examination Survey (NHANES). The survey is conducted by the National Center for Health Statistics (NCHS), and data are publicly available at: <a href="https://www.cdc.gov/nchs/nhanes.htm">https://www.cdc.gov/nchs/nhanes.htm</a> . NHANES data are reported in well over one thousand peer-reviewed journal publications every year.</p>
+</blockquote>
+<pre class="r"><code>library(readxl)
+library(tidyverse)
+Data &lt;-
+  read_excel(path = &quot;NHANES1.xlsx&quot;) |&gt;
+  mutate(
+    Gender  = fct_relevel(Gender, &quot;Male&quot;, &quot;Female&quot;)
+  , BMI.Cat = fct_relevel(BMI.Cat, &quot;Under Weight&quot;, &quot;Normal Weight&quot;, &quot;Over Weight&quot;, &quot;Obese&quot;)
+    )
+Data</code></pre>
+<pre><code># A tibble: 8,819 × 6
+      ID Gender   Age Race                 BMI BMI.Cat      
+   &lt;dbl&gt; &lt;fct&gt;  &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt; &lt;fct&gt;        
+ 1 31128 Female    11 Non-Hispanic Black  17.4 Under Weight 
+ 2 31129 Male      15 Non-Hispanic Black  26.5 Over Weight  
+ 3 31131 Female    44 Non-Hispanic Black  30.9 Obese        
+ 4 31132 Male      70 Non-Hispanic White  24.7 Normal Weight
+ 5 31133 Female    16 Non-Hispanic Black  16.8 Under Weight 
+ 6 31134 Male      73 Non-Hispanic White  30.6 Obese        
+ 7 31137 Female    14 Non-Hispanic Black  27.8 Over Weight  
+ 8 31138 Male       3 Mexican American    16.1 Under Weight 
+ 9 31139 Female    18 Other Hispanic      29.4 Over Weight  
+10 31140 Female    11 Non-Hispanic White  18.2 Under Weight 
+# … with 8,809 more rows</code></pre>
+<pre class="r"><code>library(janitor)
+Out1 &lt;-
+  Data |&gt;
+  tabyl(Gender) |&gt;
+  adorn_totals(c(&quot;row&quot;)) |&gt;
+  adorn_pct_formatting(digits = 2)
+
+Out1</code></pre>
+<pre><code> Gender    n percent
+   Male 4305  48.82%
+ Female 4514  51.18%
+  Total 8819 100.00%</code></pre>
+<pre class="r"><code>library(scales)
+Plot1 &lt;-
+  ggplot(data = Data, mapping = aes(x = Gender)) +
+  geom_bar(stat = &quot;count&quot;, width = 0.4) +
+  geom_text(stat = &quot;count&quot;, mapping = aes(label = comma(stat(count))), vjust = -0.2) +
+  scale_y_continuous(
+      expand = c(0, NA)
+    , limits = c(0, 4700)
+    , labels = scales::comma
+    , breaks = pretty_breaks(12)
+    ) +
+  labs(
+    x = &quot;Gender&quot;
+  , y = &quot;Frequency&quot;
+  ) +
+  theme_classic() +
+  theme(aspect.ratio = 2/1)
+
+Plot1</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/Plot1-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<pre class="r"><code>Out2 &lt;-
+  Data |&gt;
+  tabyl(Gender)
+Out2</code></pre>
+<pre><code> Gender    n   percent
+   Male 4305 0.4881506
+ Female 4514 0.5118494</code></pre>
+<pre class="r"><code>library(ggchicklet)
+Plot2 &lt;-
+  ggplot(data = Out2, mapping = aes(x = Gender, y = n)) +
+  geom_chicklet(radius = grid::unit(3, &quot;mm&quot;), width = 0.5) +
+  geom_text(mapping = aes(label = scales::comma(n)), vjust = -0.2) +
+  scale_y_continuous(
+      expand = c(0, NA)
+    , limits = c(0, 4700)
+    , labels = scales::comma
+    , breaks = pretty_breaks(12)
+    ) +
+  labs(
+    x = &quot;Gender&quot;
+  , y = &quot;Frequency&quot;
+  ) +
+  theme_classic() +
+  theme(aspect.ratio = 2/1)
+
+Plot2</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/Plot2-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<pre class="r"><code>Out3 &lt;-
+  Data |&gt;
+  tabyl(Race) |&gt;
+  adorn_totals(c(&quot;row&quot;)) |&gt;
+  adorn_pct_formatting(digits = 2)
+Out3</code></pre>
+<pre><code>               Race    n percent
+   Mexican American 2360  26.76%
+ Non-Hispanic Black 2392  27.12%
+ Non-Hispanic White 3350  37.99%
+     Other Hispanic  291   3.30%
+        Other/Mixed  426   4.83%
+              Total 8819 100.00%</code></pre>
+<pre class="r"><code>Plot3 &lt;-
+  ggplot(data = Data, mapping = aes(x = Race)) +
+  geom_bar(stat = &quot;count&quot;) +
+  geom_text(stat = &quot;count&quot;, mapping = aes(label = comma(stat(count))), vjust = -0.2) +
+  scale_y_continuous(
+      expand = c(0, NA)
+    , limits = c(0, 3500)
+    , labels = scales::comma
+    , breaks = pretty_breaks(12)
+    ) +
+  labs(
+    x = &quot;Race&quot;
+  , y = &quot;Frequency&quot;
+  ) +
+  theme_classic()
+
+Plot3</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/Plot3-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<pre class="r"><code>Out4 &lt;-
+  Data |&gt;
+  tabyl(BMI.Cat) |&gt;
+  adorn_totals(c(&quot;row&quot;)) |&gt;
+  adorn_pct_formatting(digits = 2)
+
+Out4</code></pre>
+<pre><code>       BMI.Cat    n percent
+  Under Weight 1921  21.78%
+ Normal Weight 2770  31.41%
+   Over Weight 2059  23.35%
+         Obese 2069  23.46%
+         Total 8819 100.00%</code></pre>
+<pre class="r"><code>Plot4 &lt;-
+  ggplot(data = Data, mapping = aes(x = BMI.Cat)) +
+  geom_bar(stat = &quot;count&quot;) +
+  geom_text(stat = &quot;count&quot;, mapping = aes(label = comma(stat(count))), vjust = -0.2) +
+  scale_y_continuous(
+      expand = c(0, NA)
+    , limits = c(0, 3000)
+    , labels = scales::comma
+    , breaks = pretty_breaks(12)
+    ) +
+  labs(
+    x = &quot;BMI&quot;
+  , y = &quot;Frequency&quot;
+  ) +
+  theme_classic()
+
+Plot4</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/Plot4-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<pre class="r"><code>Out5 &lt;-
+  Data |&gt;
+  tabyl(Gender, BMI.Cat) |&gt;
+  adorn_totals(c(&quot;row&quot;, &quot;col&quot;)) |&gt;
+  adorn_percentages(&quot;row&quot;) |&gt;
+  adorn_pct_formatting(digits = 2) |&gt;
+  adorn_ns(position = &quot;front&quot;) |&gt;
+  adorn_title(&quot;combined&quot;)
+
+Out5</code></pre>
+<pre><code> Gender/BMI.Cat  Under Weight Normal Weight   Over Weight         Obese
+           Male  985 (22.88%) 1299 (30.17%) 1115 (25.90%)  906 (21.05%)
+         Female  936 (20.74%) 1471 (32.59%)  944 (20.91%) 1163 (25.76%)
+          Total 1921 (21.78%) 2770 (31.41%) 2059 (23.35%) 2069 (23.46%)
+          Total
+ 4305 (100.00%)
+ 4514 (100.00%)
+ 8819 (100.00%)</code></pre>
+<pre class="r"><code>Plot5 &lt;-
+  ggplot(data = Data, mapping = aes(x = BMI.Cat, fill = Gender)) +
+  geom_bar(stat = &quot;count&quot;) +
+  geom_text(stat = &quot;count&quot;, mapping = aes(label = comma(stat(count))), vjust = -0.2) +
+  facet_grid(cols = vars(Gender)) +
+  scale_y_continuous(
+      expand = c(0, NA)
+    , limits = c(0, 1600)
+    , labels = scales::comma
+    , breaks = pretty_breaks(12)
+    ) +
+  labs(
+    x = &quot;BMI&quot;
+  , y = &quot;Frequency&quot;
+  ) +
+  theme_classic()
+
+Plot5</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/Plot5-1.svg" width="672" style="display: block; margin: auto;" /></p>
+</div>
+</div>
+</div>
+<div id="descriptive-statistics" class="section level1" number="3">
+<h1><span class="header-section-number">3</span> Descriptive Statistics</h1>
+<blockquote>
+<ul>
+<li>Number of Observations</li>
+<li>Measures of Central Tendency</li>
+<li>Measures of Central Dispersion</li>
+<li>Measures of Skewness</li>
+<li>Measures of Kurtosis</li>
+</ul>
+</blockquote>
+<p> </p>
+<div id="example-1" class="section level3" number="3.0.1">
+<h3><span class="header-section-number">3.0.1</span> Example</h3>
+<blockquote>
+<p>The following data shows the ID, Gender (Male, Female), Age, Race (Mexican American, Non-Hispanic Black, Non-Hispanic White, Other Hispanic, Other/Mixed), BMI, and BMI.Cat (Under Weight, Normal Weight, Over Weight, Obese) from the National Health and Nutrition Examination Survey (NHANES). The survey is conducted by the National Center for Health Statistics (NCHS), and data are publicly available at: <a href="https://www.cdc.gov/nchs/nhanes.htm">https://www.cdc.gov/nchs/nhanes.htm</a> . NHANES data are reported in well over one thousand peer-reviewed journal publications every year.</p>
+</blockquote>
+<pre class="r"><code>Plot6 &lt;-
+  ggplot(data = Data, mapping = aes(y = BMI)) +
+  geom_boxplot(stat = &quot;boxplot&quot;, outlier.colour = &quot;red&quot;) +
+  scale_x_discrete() +
+  scale_y_continuous(
+      expand = c(0, NA)
+    , limits = c(0, NA)
+    , labels = scales::comma
+    , breaks = pretty_breaks(12)
+    ) +
+  labs(
+    x = &quot;&quot;
+  , y = &quot;BMI&quot;
+  ) +
+  theme_classic()
+
+Plot6</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/Plot6-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<pre class="r"><code>Plot7 &lt;-
+  ggplot(data = Data, mapping = aes(y = BMI)) +
+  geom_boxplot(stat = &quot;boxplot&quot;, outlier.colour = &quot;red&quot;) +
+  facet_grid(cols = vars(Gender)) +
+  scale_x_discrete() +
+  scale_y_continuous(
+      expand = c(0, NA)
+    , limits = c(0, NA)
+    , labels = scales::comma
+    , breaks = pretty_breaks(12)
+    ) +
+  labs(
+    x = &quot;&quot;
+  , y = &quot;BMI&quot;
+  ) +
+  theme_classic()
+
+Plot7</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/Plot7-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<pre class="r"><code>library(moments)
+Out6 &lt;-
+  Data |&gt;
+  summarise(
+    n        = length(BMI)
+  , Mean     = mean(BMI)
+  , Variance = var(BMI)
+  , SD       = sd(BMI)
+  , SK       = skewness(BMI)
+  , K        = kurtosis(BMI)
+  )
+
+Out6</code></pre>
+<pre><code># A tibble: 1 × 6
+      n  Mean Variance    SD    SK     K
+  &lt;int&gt; &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+1  8819  25.1     57.6  7.59  1.20  8.51</code></pre>
+<pre class="r"><code>Out7 &lt;-
+  Data |&gt;
+  filter(BMI &lt; 70) |&gt;
+  summarise(
+    n        = length(BMI)
+  , Mean     = mean(BMI)
+  , Variance = var(BMI)
+  , SD       = sd(BMI)
+  , SK       = skewness(BMI)
+  , K        = kurtosis(BMI)
+  )
+Out7</code></pre>
+<pre><code># A tibble: 1 × 6
+      n  Mean Variance    SD    SK     K
+  &lt;int&gt; &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+1  8816  25.1     55.8  7.47 0.885  4.19</code></pre>
+<pre class="r"><code>Out8 &lt;-
+  Data |&gt;
+  group_by(Gender) |&gt;
+    summarise(
+    n        = length(BMI)
+  , Mean     = mean(BMI)
+  , Variance = var(BMI)
+  , SD       = sd(BMI)
+  , SK       = skewness(BMI)
+  , K        = kurtosis(BMI)
+  )
+Out8</code></pre>
+<pre><code># A tibble: 2 × 7
+  Gender     n  Mean Variance    SD    SK     K
+  &lt;fct&gt;  &lt;int&gt; &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+1 Male    4305  24.7     50.9  7.14 1.46  14.8 
+2 Female  4514  25.4     63.6  7.98 0.994  4.55</code></pre>
+<pre class="r"><code>Out9 &lt;-
+  Data |&gt;
+  filter(BMI &lt; 70) |&gt;
+  group_by(Gender) |&gt;
+    summarise(
+    n        = length(BMI)
+  , Mean     = mean(BMI)
+  , Variance = var(BMI)
+  , SD       = sd(BMI)
+  , SK       = skewness(BMI)
+  , K        = kurtosis(BMI)
+  )
+
+Out9</code></pre>
+<pre><code># A tibble: 2 × 7
+  Gender     n  Mean Variance    SD    SK     K
+  &lt;fct&gt;  &lt;int&gt; &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+1 Male    4304  24.7     48.3  6.95 0.773  4.11
+2 Female  4512  25.4     62.6  7.91 0.923  4.07</code></pre>
+</div>
+</div>
+<div id="correlation-analysis" class="section level1" number="4">
+<h1><span class="header-section-number">4</span> Correlation Analysis</h1>
+<div id="example-2" class="section level3" number="4.0.1">
+<h3><span class="header-section-number">4.0.1</span> Example</h3>
+<blockquote>
+<p>The following data shows the ID, Gender (Male, Female), Age, Race (Mexican American, Non-Hispanic Black, Non-Hispanic White, Other Hispanic, Other/Mixed), BMI, and BMI.Cat (Under Weight, Normal Weight, Over Weight, Obese) from the National Health and Nutrition Examination Survey (NHANES). The survey is conducted by the National Center for Health Statistics (NCHS), and data are publicly available at: <a href="https://www.cdc.gov/nchs/nhanes.htm">https://www.cdc.gov/nchs/nhanes.htm</a> . NHANES data are reported in well over one thousand peer-reviewed journal publications every year.</p>
+</blockquote>
+<pre class="r"><code>Out10 &lt;-
+  Data |&gt;
+  select(BMI, Age) |&gt;
+  var()
+
+Out10</code></pre>
+<pre><code>         BMI       Age
+BMI 57.55196  81.74215
+Age 81.74215 504.62626</code></pre>
+<pre class="r"><code>Out11 &lt;-
+  Data |&gt;
+  select(BMI, Age) |&gt;
+  cor()
+Out11</code></pre>
+<pre><code>          BMI       Age
+BMI 1.0000000 0.4796573
+Age 0.4796573 1.0000000</code></pre>
+<pre class="r"><code>Out12 &lt;-
+  Data |&gt;
+  filter(BMI &lt; 70) |&gt;
+  select(BMI, Age) |&gt;
+  var()
+Out12</code></pre>
+<pre><code>         BMI      Age
+BMI 55.76963  81.6055
+Age 81.60550 504.7595</code></pre>
+<pre class="r"><code>Out13 &lt;-
+  Data |&gt;
+  filter(BMI &lt; 70) |&gt;
+  select(BMI, Age) |&gt;
+  cor()
+Out13</code></pre>
+<pre><code>          BMI       Age
+BMI 1.0000000 0.4863829
+Age 0.4863829 1.0000000</code></pre>
+<pre class="r"><code>Data |&gt;
+  filter(Gender == &quot;Male&quot;) |&gt;
+  select(BMI, Age) |&gt;
+  var()</code></pre>
+<pre><code>         BMI       Age
+BMI 50.91307  82.28081
+Age 82.28081 531.44024</code></pre>
+<pre class="r"><code>Data |&gt;
+  filter(Gender == &quot;Male&quot;) |&gt;
+  select(BMI, Age) |&gt;
+  cor()</code></pre>
+<pre><code>         BMI      Age
+BMI 1.000000 0.500215
+Age 0.500215 1.000000</code></pre>
+<pre class="r"><code>Data |&gt;
+  filter(Gender == &quot;Female&quot;) |&gt;
+  select(BMI, Age) |&gt;
+  var()</code></pre>
+<pre><code>         BMI      Age
+BMI 63.63634  81.5858
+Age 81.58580 478.7229</code></pre>
+<pre class="r"><code>Data |&gt;
+  filter(Gender == &quot;Female&quot;) |&gt;
+  select(BMI, Age) |&gt;
+  cor()</code></pre>
+<pre><code>          BMI       Age
+BMI 1.0000000 0.4674336
+Age 0.4674336 1.0000000</code></pre>
+<p> </p>
+</div>
+</div>
+<div id="an-introduction-to-linear-models" class="section level1" number="5">
+<h1><span class="header-section-number">5</span> An Introduction to Linear Models</h1>
+<div id="regression-analysis" class="section level2" number="5.1">
+<h2><span class="header-section-number">5.1</span> Regression Analysis</h2>
+<blockquote>
+<ul>
+<li>Quantifying dependency of a normal response on quantitative explanatory variable(s)</li>
+</ul>
+</blockquote>
+<p> </p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:PopRegFn"></span>
+<img src="https://github.com/myaseen208/material/raw/main/PopRegFn.png" alt="Population Regression Function" width="100%" />
+<p class="caption">
+Figure 5.1: Population Regression Function
+</p>
+</div>
+<p> </p>
+<div id="example-3" class="section level3" number="5.1.1">
+<h3><span class="header-section-number">5.1.1</span> Example</h3>
+<blockquote>
+<p>The following data shows the ID, Gender (Male, Female), Age, Race (Mexican American, Non-Hispanic Black, Non-Hispanic White, Other Hispanic, Other/Mixed), BMI, and BMI.Cat (Under Weight, Normal Weight, Over Weight, Obese) from the National Health and Nutrition Examination Survey (NHANES). The survey is conducted by the National Center for Health Statistics (NCHS), and data are publicly available at: <a href="https://www.cdc.gov/nchs/nhanes.htm">https://www.cdc.gov/nchs/nhanes.htm</a> . NHANES data are reported in well over one thousand peer-reviewed journal publications every year.</p>
+</blockquote>
+<pre class="r"><code>fm1Plot1 &lt;-
+  ggplot(data = Data, mapping = aes(x = Age, y = BMI)) +
+  geom_point() +
+  theme_classic()
+
+fm1Plot1</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/fm1Plot1-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<pre class="r"><code>fm1 &lt;- lm(formula = BMI ~ Age, data = Data)
+summary(fm1)$coef</code></pre>
+<pre><code>              Estimate  Std. Error  t value Pr(&gt;|t|)
+(Intercept) 20.3072818 0.116956424 173.6312        0
+Age          0.1619855 0.003155804  51.3294        0</code></pre>
+<pre class="r"><code>anova(fm1)</code></pre>
+<pre><code>Analysis of Variance Table
+
+Response: BMI
+            Df Sum Sq Mean Sq F value    Pr(&gt;F)    
+Age          1 116760  116760  2634.7 &lt; 2.2e-16 ***
+Residuals 8817 390734      44                      
+---
+Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1</code></pre>
+<pre class="r"><code>library(emmeans)
+fm1Plot2 &lt;-
+  emmip(
+      object     = fm1
+    , formula    =  ~ Age
+    , cov.reduce = range
+    ) +
+  scale_x_continuous(breaks = pretty_breaks(12)) +
+  scale_y_continuous(breaks = pretty_breaks(12)) +
+  labs(x = &quot;Age&quot;, y = &quot;BMI&quot;) +
+  theme_classic()
+fm1Plot2</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/fm1Plot2-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<pre class="r"><code>library(ggpmisc)
+fm1Plot3 &lt;-
+  ggplot(data = Data, mapping = aes(x = Age, y = BMI)) +
+  geom_point() +
+  geom_smooth(method = &quot;lm&quot;, se = FALSE, color = &quot;black&quot;, formula = y ~ x) +
+  stat_poly_eq(
+      formula = y ~ x
+    , eq.with.lhs = FALSE
+    , mapping = aes(
+                   label = paste(&quot;widehat(italic(BMI))&quot;, &quot;~`=`~&quot;, gsub(&quot;italic(x)&quot;,&quot;Age&quot;,..eq.label..,fixed = TRUE),  &quot;~~~&quot;, ..rr.label..,  &quot;~~~&quot;,  ..adj.rr.label.., &quot;~~~&quot;,  ..p.value.label.. ,  sep = &quot;&quot;)
+                  )
+    , size  = 4.5
+    , parse = TRUE
+    ) +
+  theme_classic()
+
+fm1Plot3</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/fm1Plot3-1.svg" width="672" style="display: block; margin: auto;" /></p>
+</div>
+</div>
+<div id="analysis-of-variance-anova" class="section level2" number="5.2">
+<h2><span class="header-section-number">5.2</span> Analysis of Variance (ANOVA)</h2>
+<blockquote>
+<ul>
+<li>Comparing means of Normal dependent variable for levels of different factor(s)</li>
+</ul>
+</blockquote>
+<p> </p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:ANOVANormalMeans"></span>
+<img src="https://github.com/myaseen208/material/raw/main/ANOVANormalMeans.png" alt="Analysis of Variance" width="100%" />
+<p class="caption">
+Figure 5.2: Analysis of Variance
+</p>
+</div>
+<p> </p>
+<div id="example-4" class="section level3" number="5.2.1">
+<h3><span class="header-section-number">5.2.1</span> Example</h3>
+<blockquote>
+<p>The following data shows the ID, Gender (Male, Female), Age, Race (Mexican American, Non-Hispanic Black, Non-Hispanic White, Other Hispanic, Other/Mixed), BMI, and BMI.Cat (Under Weight, Normal Weight, Over Weight, Obese) from the National Health and Nutrition Examination Survey (NHANES). The survey is conducted by the National Center for Health Statistics (NCHS), and data are publicly available at: <a href="https://www.cdc.gov/nchs/nhanes.htm">https://www.cdc.gov/nchs/nhanes.htm</a> . NHANES data are reported in well over one thousand peer-reviewed journal publications every year.</p>
+</blockquote>
+<pre class="r"><code>fm2 &lt;- lm(formula = BMI ~ Gender, data = Data)
+anova(fm2)</code></pre>
+<pre><code>Analysis of Variance Table
+
+Response: BMI
+            Df Sum Sq Mean Sq F value    Pr(&gt;F)    
+Gender       1   1173 1172.53  20.418 6.304e-06 ***
+Residuals 8817 506321   57.43                      
+---
+Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1</code></pre>
+<pre class="r"><code>fm2Plot1 &lt;-
+  emmip(
+      object     = fm2
+    , formula    =  ~ Gender
+    ) +
+  scale_y_continuous(breaks = pretty_breaks(12)) +
+  labs(x = &quot;Gender&quot;, y = &quot;BMI&quot;) +
+  theme_classic()
+fm2Plot1</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/fm2Plot1-1.svg" width="672" style="display: block; margin: auto;" /></p>
+</div>
+</div>
+<div id="analysis-of-covariance-ancova" class="section level2" number="5.3">
+<h2><span class="header-section-number">5.3</span> Analysis of Covariance (ANCOVA)</h2>
+<blockquote>
+<ul>
+<li>Quantifying dependency of a normal response on quantitative explanatory variable(s)</li>
+<li>Comparing means of Normal dependent variable for levels of different factor(s)</li>
+</ul>
+</blockquote>
+<p> </p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:ANCOVA"></span>
+<img src="https://github.com/myaseen208/material/raw/main/ANCOVA.png" alt="Analysis of Covariance" width="100%" />
+<p class="caption">
+Figure 5.3: Analysis of Covariance
+</p>
+</div>
+<p> </p>
+<div id="example-5" class="section level3" number="5.3.1">
+<h3><span class="header-section-number">5.3.1</span> Example</h3>
+<blockquote>
+<p>The following data shows the ID, Gender (Male, Female), Age, Race (Mexican American, Non-Hispanic Black, Non-Hispanic White, Other Hispanic, Other/Mixed), BMI, and BMI.Cat (Under Weight, Normal Weight, Over Weight, Obese) from the National Health and Nutrition Examination Survey (NHANES). The survey is conducted by the National Center for Health Statistics (NCHS), and data are publicly available at: <a href="https://www.cdc.gov/nchs/nhanes.htm">https://www.cdc.gov/nchs/nhanes.htm</a> . NHANES data are reported in well over one thousand peer-reviewed journal publications every year.</p>
+</blockquote>
+<pre class="r"><code>fm3 &lt;- lm(formula = BMI ~ Age*Gender, data = Data)
+anova(fm3)</code></pre>
+<pre><code>Analysis of Variance Table
+
+Response: BMI
+             Df Sum Sq Mean Sq   F value    Pr(&gt;F)    
+Age           1 116760  116760 2647.6079 &lt; 2.2e-16 ***
+Gender        1   1722    1722   39.0430 4.338e-10 ***
+Age:Gender    1    270     270    6.1294   0.01331 *  
+Residuals  8815 388742      44                        
+---
+Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1</code></pre>
+<pre class="r"><code>summary(fm3)$coef</code></pre>
+<pre><code>                    Estimate  Std. Error    t value      Pr(&gt;|t|)
+(Intercept)      20.06946217 0.165999451 120.900775  0.000000e+00
+Age               0.15482609 0.004390925  35.260475 6.652534e-255
+GenderFemale      0.42441011 0.233467368   1.817856  6.912004e-02
+Age:GenderFemale  0.01559778 0.006300190   2.475763  1.331382e-02</code></pre>
+<pre class="r"><code>fm3Plot1 &lt;-
+  emmip(
+      object     = fm3
+    , formula    = Gender ~ Age
+    , cov.reduce = range
+    ) +
+  scale_x_continuous(breaks = pretty_breaks(12)) +
+  scale_y_continuous(breaks = pretty_breaks(12)) +
+  labs(x = &quot;Age&quot;, y = &quot;BMI&quot;) +
+  theme_classic()
+fm3Plot1</code></pre>
+<p><img src="/blogs/2022-05-20_TUF_files/figure-html/fm3Plot1-1.svg" width="672" style="display: block; margin: auto;" /></p>
+</div>
+</div>
+</div>
+<div id="an-introduction-to-r" class="section level1" number="6">
+<h1><span class="header-section-number">6</span> An Introduction to R</h1>
+<blockquote>
+<p><strong>R</strong> is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing. <strong>R</strong> provides a wide variety of statistical and graphical techniques, and is highly extensible. The latest version of <strong>R</strong> can be obtained from <a href="https://cran.r-project.org/bin/windows/base/">https://cran.r-project.org/bin/windows/base/</a>.</p>
+</blockquote>
+<p> </p>
+<h4>
+<a href="https://cran.r-project.org/bin/windows/base/" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>  R</a> <a href="https://cran.r-project.org/bin/windows/base/">R for Windows (32/64 bit)</a>  
+</h4>
+<p> </p>
+<h4>
+<a href="https://www.rstudio.com/products/rstudio/download/" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>  RStudio</a> <a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a>  
+</h4>
+<p> </p>
+<h4>
+<a href="https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>  Manual</a> <a href="https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf">An Introduction to R</a>  
+</h4>
+<p> </p>
+<h4>
+<a href="https://cran.r-project.org/doc/contrib/Short-refcard.pdf" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>  Ref Card</a> <a href="https://cran.r-project.org/doc/contrib/Short-refcard.pdf">R Reference Card</a>  
+</h4>
+<p> </p>
+<h4>
+<a href="https://github.com/myaseen208/R-Workshop/raw/master/2009NewYorkTimes.pdf" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>  New York Times</a> <a href="https://github.com/myaseen208/R-Workshop/raw/master/2009NewYorkTimes.pdf">New York Times</a>  
+</h4>
+<p> </p>
+<h4>
+<a href="https://github.com/myaseen208/R-Workshop/raw/master/2015NatureArticle.pdf" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>  Nature Article</a> <a href="https://github.com/myaseen208/R-Workshop/raw/master/2015NatureArticle.pdf">Nature Article</a>  
+</h4>
+</div>
