@@ -101,3 +101,7 @@ seminars_count = 8
   url = "/about/"
   weight = 5
 
+[[menu.main]]
+  name = "Misc"
+  url = "/misc/"
+  weight = 6
