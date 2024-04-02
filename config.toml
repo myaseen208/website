@@ -37,7 +37,7 @@ seminars_count = 8
   icon = "university"
   icon_pack = "fa"
   link = ""
-  text = "Evacuee Trust Complex, Adjacent to Marriot Hotel, Sector F-5/1, Agha Khan Rd, Islamabad, Pakistan."
+  text = "School of Mathematical & Statistical Sciences, Clemson University, Clemson, South Carolina, USA"
 
 [[params.social]]
   icon = "envelope"
@@ -105,3 +105,9 @@ seminars_count = 8
   name = "Misc"
   url = "/misc/"
   weight = 6
+
+
+[[menu.main]]
+  name = "Urdu"
+  url = "/urdu/"
+  weight = 7

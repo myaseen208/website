@@ -5,7 +5,30 @@
     <link>https://myaseen208.com/</link>
     <description>Recent content on Muhammad Yaseen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myaseen208.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://myaseen208.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Introduction to R Programming Language</title>
+      <link>https://myaseen208.com/blogs/2023-04-18-intror/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/blogs/2023-04-18-intror/</guid>
+      <description>IntroductionR is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing. R provides a wide variety of statistical and graphical techniques, and is highly extensible. The latest version of R can be obtained from https://cran.r-project.org/bin/windows/base/.
+  R R for Windows (32/64 bit)   RStudio RStudio   Manual An Introduction to R    Ref Card R Reference Card    New York Times New York Times   Nature Article Nature Article  SlidesThe Slides may be accessed from Slides.</description>
+    </item>
+    
+    <item>
+      <title>Social Protection for Persons with Disabilities in Pakistan: Current Scenario and Contribution of BISP</title>
+      <link>https://myaseen208.com/publications/2023_khalid/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/publications/2023_khalid/</guid>
+      <description>The 2030 Agenda for Sustainable Development, which pledges to “leave no one behind,” emphasizes on promoting full and equal participation of all vulnerable and marginalized population segments in national development efforts, including persons with disabilities (PWDs). There is mounting evidence globally that differently abled people are disproportionately more vulnerable to both monetary and multi-dimensional poverty and require urgent support in terms of targeted social protection measures. The present paper presents a situation analysis and estimates of the population of PWDs across Pakistan, using different available data sources.</description>
+    </item>
+    
     <item>
       <title>Effect of Rain-Fed Conditions on Yield of Mash Bean Genepool by Using Augmented Design</title>
       <link>https://myaseen208.com/publications/2022_yaseen/</link>
@@ -1479,7 +1502,7 @@ Materials and methods In vitro anthelmintic activity of crude aqueous methanolic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://myaseen208.com/about/</guid>
-      <description>Profile &amp;nbsp;&amp;nbsp;CV Curriculum Vitae &amp;nbsp;  Emailmyaseen208 on GitHubGoogle ScholarTwitter Data Scientist with twenty-two years of teaching &amp;amp; research experience executing data driven decisions &amp;amp; solutions to increase efficiency &amp;amp; accuracy
+      <description>Profile &amp;nbsp;&amp;nbsp;CV Curriculum Vitae &amp;nbsp;  Email myaseen208 on GitHub Google Scholar Twitter   Data Scientist with twenty-two years of teaching &amp;amp; research experience executing data driven decisions &amp;amp; solutions to increase efficiency &amp;amp; accuracy
   Experienced at developing statistical models, using predictive data modeling &amp;amp; analyzing data algorithms to deliver insights &amp;amp; implement action-oriented solutions to complex problems
   Proficient in developing R package/software for statistical analysis &amp;amp; machine learning</description>
     </item>
@@ -1511,6 +1534,16 @@ Materials and methods In vitro anthelmintic activity of crude aqueous methanolic
       
       <guid>https://myaseen208.com/teaching/</guid>
       <description>Winter Semester 2018-2019Stat-610: Experimental Design-IIStat-703: Design and Analysis of Experiments for ResearchersStat-712: Theory of Experimental DesignSummer Semester 2017-2018Stat-703: Design and Analysis of Experiments for ResearchersSpring Semester 2017-2018Stat-705: Advanced Design of ExperimentsStat-703: Design and Analysis of Experiments for ResearchersStat-609: Experimental Design-I Winter Semester 2018-2019Stat-610: Experimental Design-II pdf Syllabus Learning Objectives</description>
+    </item>
+    
+    <item>
+      <title>Urdu</title>
+      <link>https://myaseen208.com/urdu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.com/urdu/</guid>
+      <description> This page contains miscellaneous stuff.
+ </description>
     </item>
     
   </channel>
